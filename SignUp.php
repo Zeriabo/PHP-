@@ -1,6 +1,3 @@
- session_save_path("/home/users/web/b1652/nf.nezar1/cgi-bin/tmp");
- session_start(); ?>
-
 <html>
 <head>
 	<title> Sign Up - Response </title>

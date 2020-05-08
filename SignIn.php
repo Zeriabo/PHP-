@@ -1,5 +1,3 @@
- session_save_path("/home/users/web/b1652/nf.nezar1/cgi-bin/tmp");
- session_start(); ?>
 <html>
 <head>
 	<title> SignIn  </title>
@@ -8,7 +6,7 @@
 
 
 
-	<?php
+<?php
     extract($_POST);
 
 
